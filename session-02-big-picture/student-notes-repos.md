@@ -16,3 +16,8 @@
 - https://github.com/iiliev123/java-brains-bootcamp
 - https://github.com/somixyz/Koushik-SE-bootcamp
 - https://github.com/saurabh220490/java-backend-bootcamp
+- https://github.com/vijaysaiy/backend-engineering
+- https://github.com/aparnagopisetti1234/java-backend-bootcamp
+- https://github.com/Raj04/Spring-Bootcamp
+- https://github.com/shawchandankumar/Java-Backend-Development
+- https://github.com/bogdanbilcan/JavaBrains-BootCampNotes
